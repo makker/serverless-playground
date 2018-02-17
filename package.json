@@ -1,0 +1,23 @@
+{
+  "name": "serverless-playground",
+  "version": "1.0.0",
+  "description": "Playground for Tests and tutorials on serverless",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makker/serverless-playground.git"
+  },
+  "keywords": [
+    "serverless",
+    "aws"
+  ],
+  "author": "Markus Ruottu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makker/serverless-playground/issues"
+  },
+  "homepage": "https://github.com/makker/serverless-playground#readme"
+}
