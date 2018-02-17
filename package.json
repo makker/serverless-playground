@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/makker/serverless-playground/issues"
   },
-  "homepage": "https://github.com/makker/serverless-playground#readme"
+  "homepage": "https://github.com/makker/serverless-playground#readme",
+  "dependencies": {
+    "aws-sdk": "^2.197.0"
+  }
 }
